@@ -66,6 +66,10 @@ Neexistuje žádný rok, ve kterém by meziroční nárůst cen potravin převý
 
 Z dostupných dat nevyplývá vztah mezi růstem HDP a růstem mezd nebo cen potravin ve stejném či následujícím roce. Například v roce 2009, kdy HDP výrazně pokleslo (–4.49 %), došlo k prudkému poklesu cen potravin (–7.7 %), zatímco mzdy mírně vzrostly (+3.1 %). To ukazuje, že vývoj HDP nemusí mít přímý ani okamžitý dopad na ceny potravin či mzdy.
 
+![image](https://github.com/user-attachments/assets/da8b2eda-ed7e-465f-9aac-48b56964f447)
+
+
+
 
 
 
