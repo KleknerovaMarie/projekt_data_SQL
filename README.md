@@ -36,7 +36,7 @@ economies - HDP, GINI, daňová zátěž, atd. pro daný stát a rok.
 ### Průvodní zpráva – ENGETO SQL Projekt: Marie Kleknerová
 Cílem tohoto SQL projektu v rámci ENGETO kurzu bylo vytvořit ucelený dataset pro analýzu vývoje mezd a cen potravin v České republice a vyhodnotit případné souvislosti s vývojem HDP. V projektu jsem vytvořila dva hlavní SQL pohledy a následně z nich finální tabulku.
 
-#### 1. t_marie_kleknerova_project_sql_primary_final
+### 1. t_marie_kleknerova_project_sql_primary_final
 Tato tabulka vznikla spojením dvou připravených pohledů:
 
 **Pohled v_marie_kleknerova_first_part – ceny potravin**
